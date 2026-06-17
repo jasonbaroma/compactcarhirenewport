@@ -564,28 +564,28 @@ That is why compact car hire works so well here. A smaller hatchback gives you s
           featureCtaDescription: "Tell us what sort of driving you have planned and we will help you choose a compact car or a larger vehicle that makes practical sense.",
           serviceAreasKicker: "Areas we cover",
           serviceAreasTitle: "Vehicle hire across Newport and surrounding routes",
-          serviceAreasDescription: "We support customers in Newport and across nearby regional routes, with compact car hire backed by the wider self-drive fleet when extra space is needed.",
+          serviceAreasDescription: "We support customers across Newport, the A48 Southern Distributor Road corridor, M4-linked journeys, station access near Newport railway station and practical town-centre travel around Friars Walk, Kingsway and nearby business routes.",
           localRelevanceKicker: "Driving in Newport",
           localRelevanceTitle: "Why compact car hire works well in Newport",
-          localRelevanceDescription: `Compact car hire works well in Newport because many bookings combine ordinary local driving with a wider road section later in the day. A smaller hatchback is easier around everyday parking, shorter local trips and repeated stops, while still remaining comfortable enough once the route extends beyond town.
+          localRelevanceDescription: `Compact car hire works particularly well in Newport because the town regularly mixes short local errands with fast access onto bigger roads. A booking might start with a station collection at Newport railway station, a stop near Friars Walk or John Frost Square, and then widen quickly onto the A48 Southern Distributor Road or the M4 for mileage towards Cardiff, Bristol or Monmouthshire. In that kind of pattern, a smaller hatchback stays easier to place in ordinary town traffic and much less awkward in multi-storey or short-stay parking than a larger vehicle.
 
-That balance matters for business visits, replacement transport, shopping, family travel and practical mixed-use journeys. Customers often want a car that feels straightforward from the first mile rather than something bigger than the route really needs. A compact hatchback gives that middle ground while still leaving the wider fleet available if the booking changes.`,
+That practicality also shows up on everyday replacement transport and business use. Customers heading to the Celtic Manor Resort, office visits around Chepstow Road or retail runs across Spytty and the city centre often want a car that is simple in local streets but still comfortable beyond Newport itself. A compact car gives that balance without overcommitting the booking to a bigger vehicle than the route really needs.`,
           localRelevanceBlocks: [
             {
               title: "A sensible fit for everyday local driving",
-              body: `Compact cars make sense in Newport because many bookings are about ordinary day-to-day travel rather than one long uninterrupted motorway run.
+              body: `Compact cars suit Newport because many local journeys revolve around repeat stops rather than one straight motorway run. That can mean parking for Friars Walk, picking up at Newport station, calling at Newport Market or crossing between central streets and residential districts without wanting the footprint of a larger vehicle.
 
-That local usability is one of the clearest advantages of a smaller hatchback. It is easier to place, easier to park and easier to live with across repeated short stops.`,
+That local usability is one of the clearest advantages of a smaller hatchback. It is easier to place, easier to park and easier to live with across short-stay city-centre parking and repeated urban stops.`,
             },
             {
               title: "Still useful once the route widens",
-              body: `A lot of Newport journeys do not stay local. Compact cars remain useful because they are still comfortable enough for the broader regional mileage that often follows the town section.
+              body: `A lot of Newport journeys do not stay local. After the town section, the route often opens onto the A48 SDR, the A4042 or the M4 at Junctions 24 to 28, so the car still needs to remain comfortable enough once the booking spreads into wider South Wales mileage.
 
-For many customers, that is exactly the right balance: straightforward locally without feeling too limited once the trip grows.`,
+For many customers, that is exactly the right balance: straightforward around central Newport and still settled enough once the trip grows beyond the city.`,
             },
             {
               title: "Good for replacement and mixed-use bookings",
-              body: `Work travel, family visits, shopping, local appointments and temporary replacement transport all reward a vehicle that feels manageable from the first mile.
+              body: `Work travel, family visits, Friars Walk shopping, appointments near the Royal Gwent site and temporary replacement transport all reward a vehicle that feels manageable from the first mile.
 
 If the booking later needs more carrying room or more passenger space, the wider self-drive fleet provides the next step without forcing you to start again elsewhere.`,
             },
@@ -648,22 +648,22 @@ Many van bookings from Newport also mix local access with wider road mileage in 
               featureCtaDescription: "Tell us the job, load type and route, and we will help you choose a van that actually suits the work.",
               serviceAreasKicker: "Where van hire helps",
               serviceAreasTitle: "Van hire across Newport and surrounding routes",
-              serviceAreasDescription: "We support van hire in Newport for home moves, site work, stock collections and regional transport across nearby routes.",
+              serviceAreasDescription: "We support van hire in Newport for loads moving between central streets, Spytty and Chepstow Road, collections near Newport station and Friars Walk, and wider jobs that then push onto the A48 SDR, A4042 and M4.",
               localRelevanceKicker: "Van-hire guide",
               localRelevanceTitle: "Why van hire is useful in Newport",
-              localRelevanceDescription: `Van hire works well in Newport because local jobs are often mixed and practical. One booking may involve furniture collections, another trade materials, another a day of stock runs or equipment movement. It is common for that same booking to widen from town driving onto broader regional roads later in the day, so the van still needs to remain comfortable and useful beyond the shortest urban section.
+              localRelevanceDescription: `Van hire works well in Newport because so many local jobs blend town access with broader South Wales mileage. A booking might begin with furniture collection close to Friars Walk, stock runs around Spytty Retail Park, or trade materials moving between Chepstow Road and central addresses, then widen onto the A48 Southern Distributor Road or M4 later in the same day. The van therefore has to be practical for loading and stopping locally, not just for longer distance driving.
 
-That is why a practical size range matters. Newport customers do not all need the same van, and the right fit can save both wasted space and wasted time. A compact van may be perfect for short local collections, while a Luton or larger Transit becomes the sensible option once the job grows.`,
+That is why a sensible size range matters. Newport customers do not all need the same van, and matching the vehicle to the load is especially useful where city-centre access, station-side roads and residential streets meet larger regional roads. A compact van may be ideal for a local collection, while a Luton or larger Transit becomes the smarter option once the load and route grow.`,
               localRelevanceBlocks: [
                 {
                   title: "Useful around local loading and access",
-                  body: `Many Newport van bookings start with local collections, residential access or short commercial runs, where it helps if the vehicle still feels manageable in ordinary traffic and parking conditions.
+                  body: `Many Newport van bookings start with local collections, residential access or short commercial runs around central streets, Chepstow Road and station-side routes, where it helps if the vehicle still feels manageable in ordinary traffic and loading bays.
 
-That is one reason smaller and mid-sized vans remain such useful options. They cover a wide range of practical jobs without turning simple local access into extra hassle.`,
+That is one reason smaller and mid-sized vans remain such useful options. They cover a wide range of practical jobs without turning central Newport access into extra hassle.`,
                 },
                 {
                   title: "Still practical on wider mileage",
-                  body: `A lot of Newport van jobs quickly widen beyond town. Routes across the surrounding region need a van that remains useful once the job moves out onto faster or longer roads.
+                  body: `A lot of Newport van jobs quickly widen beyond town. Routes out via the A48 SDR, the A4042 or the M4 need a van that remains useful once the job moves out onto faster or longer roads.
 
 Choosing the right load space and shape at the start makes that wider run simpler, especially when the day includes more than one drop or collection.`,
                 },
@@ -729,12 +729,12 @@ The right minibus is not only about seat count. It also needs to stay practical 
               featureCtaDescription: "Tell us how many people are travelling, the luggage involved and the route you are covering, and we will help you choose a practical self-drive minibus.",
               serviceAreasKicker: "Where minibus hire helps",
               serviceAreasTitle: "Minibus hire across Newport and nearby routes",
-              serviceAreasDescription: "We support minibus hire in Newport for airport travel, events, family transport, sports groups and wider regional journeys.",
+              serviceAreasDescription: "We support minibus hire in Newport for station pick-ups, airport travel, event transport, group runs linked to the Celtic Manor, and wider South Wales journeys via the M4 and A48.",
               localRelevanceKicker: "Minibus-hire guide",
               localRelevanceTitle: "Why minibus hire is useful in Newport",
-              localRelevanceDescription: `Minibus hire works well in Newport because group travel often starts with several pick-ups and then widens quickly into longer mileage. A family trip, airport transfer, sports fixture or event journey can become awkward when split across several cars, especially once luggage and timing start to matter. One minibus keeps the route simpler and the group together.
+              localRelevanceDescription: `Minibus hire works well in Newport because group travel here often begins with several pick-ups and then widens quickly into longer mileage. A family trip might start at Newport station, move through hotel or residential pick-ups, and then head onto the M4 for Cardiff Airport, Bristol Airport or an event venue. The same is true for sports groups, wedding travel and business events linked to the Celtic Manor Resort. One minibus keeps the timing easier and the group together.
 
-That is why matching the seating and luggage space to the real journey matters. A practical self-drive minibus gives customers a useful middle ground between several cars and a much larger group-transport setup.`,
+That is why matching the seating and luggage space to the real journey matters. A practical self-drive minibus gives customers a useful middle ground between several cars and a much larger group-transport setup, while still coping with central-Newport pick-ups and longer motorway sections in the same booking.`,
               localRelevanceBlocks: [
                 {
                   title: "Better than splitting into several cars",
@@ -813,22 +813,22 @@ That is why a self-drive truck can be useful both for local loading points and f
           featureCtaDescription: "Tell us what needs to be moved, the route involved and any access considerations, and we will help you line up a practical truck option.",
           serviceAreasKicker: "Where truck hire helps",
           serviceAreasTitle: "Truck hire across Newport and surrounding routes",
-          serviceAreasDescription: "We support truck hire in Newport for heavier transport, removals, commercial movement and site-related jobs across nearby routes.",
+          serviceAreasDescription: "We support truck hire in Newport for heavier loads moving between industrial routes, the docks side of the city, Spytty and wider commercial mileage via the A48 SDR, A4042 and M4.",
           localRelevanceKicker: "Truck-hire guide",
           localRelevanceTitle: "Why truck hire is useful in Newport",
-          localRelevanceDescription: `Truck hire is useful in Newport because some jobs quickly outgrow ordinary van carrying. Heavier move-related loads, larger commercial consignments, site materials or specialist bulky items all benefit from using the right type of vehicle from the start. That is often the difference between a job that runs smoothly and one that becomes awkward because the vehicle is working at the edge of what it should do.
+          localRelevanceDescription: `Truck hire is useful in Newport because some jobs quickly outgrow ordinary van carrying once heavier consignments, removals or site materials are involved. Newport is a practical place for self-drive truck work because loading can begin locally and then move quickly onto the A48 Southern Distributor Road, the A4042 or the M4 for broader South Wales mileage. That blend of urban access and larger-road carrying is exactly where using the right vehicle from the start makes the day easier.
 
-The right self-drive truck gives customers a practical route into heavier carrying without needing to step into a full haulage setup when the job can still be handled directly. Matching the truck to the job helps keep loading, handling and regional mileage much more straightforward.`,
+The right self-drive truck gives customers a practical route into heavier carrying without needing to step into a full haulage setup when the job can still be handled directly. Matching the truck to the job helps keep loading around central Newport, Spytty and wider industrial routes much more straightforward.`,
           localRelevanceBlocks: [
             {
               title: "Useful when a van is not the right fit",
-              body: `Some Newport transport jobs simply move beyond what a standard van should reasonably carry. That can be because of load size, load weight or the way the items need to be handled during the day.
+              body: `Some Newport transport jobs simply move beyond what a standard van should reasonably carry. That can be because of load size, load weight or the way items need to be handled between central loading points, commercial estates and larger arterial roads during the day.
 
 Choosing a truck early helps keep the booking efficient instead of forcing the job into the wrong vehicle class.`,
             },
             {
               title: "Practical for local access and wider movement",
-              body: `Many Newport truck bookings blend local loading access with wider regional road mileage. That makes a practical self-drive truck useful for both the loading point and the day’s broader route.
+              body: `Many Newport truck bookings blend local loading access with wider regional road mileage. That makes a practical self-drive truck useful both for loading points around Newport itself and for the day’s broader route via the A48 SDR or M4.
 
 The key is matching the truck to the carrying job rather than choosing by size alone.`,
             },
@@ -859,14 +859,14 @@ Having access to different truck formats helps keep that choice practical rather
           heroAlt: "Compact hire car ready for practical travel around Cardiff",
           metadataDescription: "Compact car hire in Cardiff for local driving, work trips and practical regional mileage.",
           heroDescription: "Compact car hire in Cardiff for everyday local travel, appointments and wider mileage where a smaller hatchback stays easy to manage.",
-          serviceDescription: `Compact car hire in Cardiff works well because local bookings often mix ordinary town movement with wider regional mileage in the same booking. A smaller hatchback is easier for day-to-day parking and shorter local stops, while still remaining comfortable enough for broader routes later in the day.
+          serviceDescription: `Compact car hire in Cardiff works well because many local bookings mix city-centre stops with wider South Wales mileage. A smaller hatchback is useful around Cardiff Central, Queen Street, St Mary Street access points and shopping trips near St David’s or the civic centre, while still remaining comfortable enough once the route widens onto the A48 or the M4.
 
-That practicality suits replacement transport, work visits, family mileage and mixed-use journeys around Cardiff. You get a self-drive car that stays manageable locally without feeling limited once the route widens.`,
+That practicality suits replacement transport, work visits, family mileage and mixed-use journeys around Cardiff. You get a self-drive car that stays manageable in central traffic without feeling limited once the route widens.`,
           whyChooseDescription: "We keep Cardiff compact car hire practical for ordinary local use while making sure the vehicle also works well once the journey opens onto wider routes.",
           serviceAreasDescription: "We support compact car hire in Cardiff and nearby regional routes, including town travel, business mileage and onward local-regional journeys.",
-          localRelevanceDescription: `Cardiff is a strong fit for compact car hire because many journeys here combine local driving with quick access to wider routes. A smaller vehicle is useful for ordinary parking, shorter town trips and repeated local stops, while still remaining comfortable enough once the booking heads beyond town.
+          localRelevanceDescription: `Cardiff is a strong fit for compact car hire because many journeys here combine city-centre driving with quick access to larger roads. A smaller vehicle is useful around Cardiff Central station, Queen Street, the St David’s shopping area and central car parks off Dumfries Place or Westgate Street, while still remaining comfortable enough once the booking heads out towards the A48 or the M4.
 
-That balance matters on bookings that mix shopping, appointments, family visits and regional travel in the same day. Compact hatchbacks stay practical in both halves of that journey.`,
+That balance matters on bookings that mix shopping, appointments, Principality Stadium-area travel, business visits and regional mileage in the same day. Compact hatchbacks stay practical in both halves of that journey.`,
           localBlocks: [
             { title: "A practical fit for everyday Cardiff driving", body: `Compact cars are useful in Cardiff because they keep local manoeuvring, regular parking and short town-centre trips simple. That is often the clearest benefit for customers who just need a sensible self-drive car.
 
@@ -894,12 +894,12 @@ Compact hire works well in those situations because it stays easy to live with t
           heroAlt: "Compact hire car ready for practical travel around Cwmbran",
           metadataDescription: "Compact car hire in Cwmbran for local driving, work trips and practical regional mileage.",
           heroDescription: "Compact car hire in Cwmbran for everyday local travel, appointments and wider mileage where a smaller hatchback stays easy to manage.",
-          serviceDescription: `Compact car hire in Cwmbran works well because local bookings often mix ordinary town movement with wider regional mileage in the same booking. A smaller hatchback is easier for day-to-day parking and shorter local stops, while still remaining comfortable enough for broader routes later in the day.
+          serviceDescription: `Compact car hire in Cwmbran works well because local bookings often revolve around the Cwmbran Centre, General Rees Square, station access and short practical runs before widening out onto the A4042. A smaller hatchback is easier for day-to-day parking and shorter local stops, while still remaining comfortable enough for broader routes later in the day.
 
 That practicality suits replacement transport, work visits, family mileage and mixed-use journeys around Cwmbran. You get a self-drive car that stays manageable locally without feeling limited once the route widens.`,
           whyChooseDescription: "We keep Cwmbran compact car hire practical for ordinary local use while making sure the vehicle also works well once the journey opens onto wider routes.",
           serviceAreasDescription: "We support compact car hire in Cwmbran and nearby regional routes, including town travel, business mileage and onward local-regional journeys.",
-          localRelevanceDescription: `Cwmbran is a strong fit for compact car hire because many journeys here combine local driving with quick access to wider routes. A smaller vehicle is useful for ordinary parking, shorter town trips and repeated local stops, while still remaining comfortable enough once the booking heads beyond town.
+          localRelevanceDescription: `Cwmbran is a strong fit for compact car hire because many journeys here combine town-centre driving with quick access to the A4042 and wider South Wales mileage. A smaller vehicle is useful around the Cwmbran Centre, General Rees Square, Cwmbran railway station and ordinary retail parking, while still remaining comfortable enough once the booking heads beyond town.
 
 That balance matters on bookings that mix shopping, appointments, family visits and regional travel in the same day. Compact hatchbacks stay practical in both halves of that journey.`,
           localBlocks: [
@@ -929,12 +929,12 @@ Compact hire works well in those situations because it stays easy to live with t
           heroAlt: "Compact hire car ready for practical travel around Pontypool",
           metadataDescription: "Compact car hire in Pontypool for local driving, work trips and practical regional mileage.",
           heroDescription: "Compact car hire in Pontypool for everyday local travel, appointments and wider mileage where a smaller hatchback stays easy to manage.",
-          serviceDescription: `Compact car hire in Pontypool works well because local bookings often mix ordinary town movement with wider regional mileage in the same booking. A smaller hatchback is easier for day-to-day parking and shorter local stops, while still remaining comfortable enough for broader routes later in the day.
+          serviceDescription: `Compact car hire in Pontypool works well because local bookings often mix short town travel with wider mileage along the A4042 corridor. A smaller hatchback is easier around town-centre stops, Pontypool Park visits and collections linked to Pontypool and New Inn station, while still remaining comfortable enough for broader routes later in the day.
 
 That practicality suits replacement transport, work visits, family mileage and mixed-use journeys around Pontypool. You get a self-drive car that stays manageable locally without feeling limited once the route widens.`,
           whyChooseDescription: "We keep Pontypool compact car hire practical for ordinary local use while making sure the vehicle also works well once the journey opens onto wider routes.",
           serviceAreasDescription: "We support compact car hire in Pontypool and nearby regional routes, including town travel, business mileage and onward local-regional journeys.",
-          localRelevanceDescription: `Pontypool is a strong fit for compact car hire because many journeys here combine local driving with quick access to wider routes. A smaller vehicle is useful for ordinary parking, shorter town trips and repeated local stops, while still remaining comfortable enough once the booking heads beyond town.
+          localRelevanceDescription: `Pontypool is a strong fit for compact car hire because many journeys here combine local driving with quick access to wider routes. A smaller vehicle is useful around Hanbury Road, Pontypool Park, local high-street stops and Pontypool and New Inn station access, while still remaining comfortable enough once the booking heads out via the A4042.
 
 That balance matters on bookings that mix shopping, appointments, family visits and regional travel in the same day. Compact hatchbacks stay practical in both halves of that journey.`,
           localBlocks: [
@@ -969,7 +969,7 @@ Compact hire works well in those situations because it stays easy to live with t
 That practicality suits replacement transport, work visits, family mileage and mixed-use journeys around Abergavenny. You get a self-drive car that stays manageable locally without feeling limited once the route widens.`,
           whyChooseDescription: "We keep Abergavenny compact car hire practical for ordinary local use while making sure the vehicle also works well once the journey opens onto wider routes.",
           serviceAreasDescription: "We support compact car hire in Abergavenny and nearby regional routes, including town travel, business mileage and onward local-regional journeys.",
-          localRelevanceDescription: `Abergavenny is a strong fit for compact car hire because many journeys here combine local driving with quick access to wider routes. A smaller vehicle is useful for ordinary parking, shorter town trips and repeated local stops, while still remaining comfortable enough once the booking heads beyond town.
+          localRelevanceDescription: `Abergavenny is a strong fit for compact car hire because local driving often means weaving between Castle Street, the market area, Abergavenny station and short-stop town parking before widening out onto the A40 or A465. A smaller vehicle is useful for those ordinary local movements while still remaining comfortable enough once the booking heads beyond town.
 
 That balance matters on bookings that mix shopping, appointments, family visits and regional travel in the same day. Compact hatchbacks stay practical in both halves of that journey.`,
           localBlocks: [
@@ -1004,7 +1004,7 @@ Compact hire works well in those situations because it stays easy to live with t
 That practicality suits replacement transport, work visits, family mileage and mixed-use journeys around Chepstow. You get a self-drive car that stays manageable locally without feeling limited once the route widens.`,
           whyChooseDescription: "We keep Chepstow compact car hire practical for ordinary local use while making sure the vehicle also works well once the journey opens onto wider routes.",
           serviceAreasDescription: "We support compact car hire in Chepstow and nearby regional routes, including town travel, business mileage and onward local-regional journeys.",
-          localRelevanceDescription: `Chepstow is a strong fit for compact car hire because many journeys here combine local driving with quick access to wider routes. A smaller vehicle is useful for ordinary parking, shorter town trips and repeated local stops, while still remaining comfortable enough once the booking heads beyond town.
+          localRelevanceDescription: `Chepstow is a strong fit for compact car hire because local driving often moves between High Street, Chepstow station, riverside and castle-side stops before widening onto the A48 or M48. A smaller vehicle is useful for those ordinary parking decisions while still remaining comfortable enough once the booking heads beyond town.
 
 That balance matters on bookings that mix shopping, appointments, family visits and regional travel in the same day. Compact hatchbacks stay practical in both halves of that journey.`,
           localBlocks: [
@@ -1039,7 +1039,7 @@ Compact hire works well in those situations because it stays easy to live with t
 That practicality suits replacement transport, work visits, family mileage and mixed-use journeys around Monmouth. You get a self-drive car that stays manageable locally without feeling limited once the route widens.`,
           whyChooseDescription: "We keep Monmouth compact car hire practical for ordinary local use while making sure the vehicle also works well once the journey opens onto wider routes.",
           serviceAreasDescription: "We support compact car hire in Monmouth and nearby regional routes, including town travel, business mileage and onward local-regional journeys.",
-          localRelevanceDescription: `Monmouth is a strong fit for compact car hire because many journeys here combine local driving with quick access to wider routes. A smaller vehicle is useful for ordinary parking, shorter town trips and repeated local stops, while still remaining comfortable enough once the booking heads beyond town.
+          localRelevanceDescription: `Monmouth is a strong fit for compact car hire because local journeys often move around Monnow Street, the bus station side of town, retail stops and tight central parking before widening onto the A40 or A449. A smaller vehicle is useful for those repeated local movements while still remaining comfortable enough once the booking heads beyond town.
 
 That balance matters on bookings that mix shopping, appointments, family visits and regional travel in the same day. Compact hatchbacks stay practical in both halves of that journey.`,
           localBlocks: [
@@ -1074,7 +1074,7 @@ Compact hire works well in those situations because it stays easy to live with t
 That practicality suits replacement transport, work visits, family mileage and mixed-use journeys around Caerphilly. You get a self-drive car that stays manageable locally without feeling limited once the route widens.`,
           whyChooseDescription: "We keep Caerphilly compact car hire practical for ordinary local use while making sure the vehicle also works well once the journey opens onto wider routes.",
           serviceAreasDescription: "We support compact car hire in Caerphilly and nearby regional routes, including town travel, business mileage and onward local-regional journeys.",
-          localRelevanceDescription: `Caerphilly is a strong fit for compact car hire because many journeys here combine local driving with quick access to wider routes. A smaller vehicle is useful for ordinary parking, shorter town trips and repeated local stops, while still remaining comfortable enough once the booking heads beyond town.
+          localRelevanceDescription: `Caerphilly is a strong fit for compact car hire because local trips often involve Caerphilly station, the castle area, town-centre stops and short parking movements before widening onto the A468 or A469. A smaller vehicle is useful for those repeat local errands while still remaining comfortable enough once the booking heads beyond town.
 
 That balance matters on bookings that mix shopping, appointments, family visits and regional travel in the same day. Compact hatchbacks stay practical in both halves of that journey.`,
           localBlocks: [
@@ -1109,7 +1109,7 @@ Compact hire works well in those situations because it stays easy to live with t
 That practicality suits replacement transport, work visits, family mileage and mixed-use journeys around Blackwood. You get a self-drive car that stays manageable locally without feeling limited once the route widens.`,
           whyChooseDescription: "We keep Blackwood compact car hire practical for ordinary local use while making sure the vehicle also works well once the journey opens onto wider routes.",
           serviceAreasDescription: "We support compact car hire in Blackwood and nearby regional routes, including town travel, business mileage and onward local-regional journeys.",
-          localRelevanceDescription: `Blackwood is a strong fit for compact car hire because many journeys here combine local driving with quick access to wider routes. A smaller vehicle is useful for ordinary parking, shorter town trips and repeated local stops, while still remaining comfortable enough once the booking heads beyond town.
+          localRelevanceDescription: `Blackwood is a strong fit for compact car hire because local travel often means short runs around High Street, Blackwood retail stops, health appointments and ordinary town parking before widening onto the A467 for broader valley mileage. A smaller vehicle is useful for those repeat local errands while still remaining comfortable enough once the booking heads beyond town.
 
 That balance matters on bookings that mix shopping, appointments, family visits and regional travel in the same day. Compact hatchbacks stay practical in both halves of that journey.`,
           localBlocks: [
