@@ -263,7 +263,7 @@ export const siteConfig = {
     navCallToBookLabel: "Call to Book",
     navCallShortLabel: "Call",
     bookNowLabel: "Call to Book",
-    footerCopyrightLabel: "© 2026 Compact Car Hire Newport. All rights reserved.",
+    footerCopyrightLabel: "? 2026 Compact Car Hire Newport. All rights reserved.",
   },
 } as const
 
